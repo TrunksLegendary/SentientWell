@@ -1,16 +1,15 @@
-<a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
 
-<!-- [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) -->
 
-***INSERT GRAPHIC HERE (include hyperlink in image)***
+<a href="https://github.com/TrunksLegendary/SentientWell"><img src="https://raw.githubusercontent.com/TrunksLegendary/SentientWell/master/Images/sw-cmyk.png?_sm_au_=iVV52Wf5fkJp7jnN" title="The Sentient Well" alt="SentientWell"></a>
 
-# Repository Title Goes Here
+<!-- [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](https://github.com/TrunksLegendary/SentientWell) -->
 
-> Subtitle or Short Description Goes Here
+[//]: # ***INSERT GRAPHIC HERE (include hyperlink in image)***
 
-> ideally one sentence
+# The Sentient Well
+# Public Developement Repository
 
-> include terms/tags that can be searched
+> Application and amd tools source code for The Sentient Well public Sandbox can be found here. 
 
 **Badges will go here**
 
@@ -154,10 +153,10 @@ $ bower install
 
 > Or Contributors/People
 
-| <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> | <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> | <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> |
+| <a href="https://github.com/TrunksLegendary/SentientWell" target="_blank">**FVCproductions**</a> | <a href="https://github.com/TrunksLegendary/SentientWell" target="_blank">**FVCproductions**</a> | <a href="https://github.com/TrunksLegendary/SentientWell" target="_blank">**FVCproductions**</a> |
 | :---: |:---:| :---:|
-| [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)    | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)  |
-| <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> |
+| [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](https://github.com/TrunksLegendary/SentientWell)    | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](https://github.com/TrunksLegendary/SentientWell) | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](https://github.com/TrunksLegendary/SentientWell)  |
+| <a href="https://github.com/TrunksLegendary/SentientWell" target="_blank">`SentientWell`</a> | <a href="https://github.com/TrunksLegendary/SentientWell" target="_blank">`SentientWell`</a> | <a href="https://github.com/TrunksLegendary/SentientWell" target="_blank">SentientWell</a> |
 
 - You can just grab their GitHub profile image URL
 - You should probably resize their picture using `?s=200` at the end of the image URL.
@@ -175,24 +174,24 @@ $ bower install
 
 Reach out to me at one of the following places!
 
-- Website at <a href="http://fvcproductions.com" target="_blank">`fvcproductions.com`</a>
-- Twitter at <a href="http://twitter.com/fvcproductions" target="_blank">`@fvcproductions`</a>
+- Website at <a href="https://github.com/TrunksLegendary/SentientWell" target="_blank">`SentientWell`</a>
+- Twitter at <a href="http://twitter.com/SentientWell" target="_blank">`@SentientWell`</a>
 - Insert more social links here.
 
 ---
 
 ## Donations (Optional)
 
-- You could include a <a href="https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.png" target="_blank">Gratipay</a> link as well.
+[//]: # - You could include a <a href="https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.png" target="_blank">Gratipay</a> link as well.
 
-[![Support via Gratipay](https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.png)](https://gratipay.com/fvcproductions/)
+[//]: # [![Support via Gratipay](https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.png)](https://gratipay.com/fvcproductions/)
 
 
 ---
 
 ## License
 
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+[![License](https://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2015 © <a href="http://fvcproductions.com" target="_blank">FVCproductions</a>.
+- Copyright 2015 © <a href="https://github.com/TrunksLegendary/SentientWell" target="_blank">SentientWell</a>.
